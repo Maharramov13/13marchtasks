@@ -1,0 +1,14 @@
+C:\Users\resul\Desktop\arraytask4\bin\Debug\net8.0\arraytask4.exe
+C:\Users\resul\Desktop\arraytask4\bin\Debug\net8.0\arraytask4.deps.json
+C:\Users\resul\Desktop\arraytask4\bin\Debug\net8.0\arraytask4.runtimeconfig.json
+C:\Users\resul\Desktop\arraytask4\bin\Debug\net8.0\arraytask4.dll
+C:\Users\resul\Desktop\arraytask4\bin\Debug\net8.0\arraytask4.pdb
+C:\Users\resul\Desktop\arraytask4\obj\Debug\net8.0\arraytask4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\Desktop\arraytask4\obj\Debug\net8.0\arraytask4.AssemblyInfoInputs.cache
+C:\Users\resul\Desktop\arraytask4\obj\Debug\net8.0\arraytask4.AssemblyInfo.cs
+C:\Users\resul\Desktop\arraytask4\obj\Debug\net8.0\arraytask4.csproj.CoreCompileInputs.cache
+C:\Users\resul\Desktop\arraytask4\obj\Debug\net8.0\arraytask4.dll
+C:\Users\resul\Desktop\arraytask4\obj\Debug\net8.0\refint\arraytask4.dll
+C:\Users\resul\Desktop\arraytask4\obj\Debug\net8.0\arraytask4.pdb
+C:\Users\resul\Desktop\arraytask4\obj\Debug\net8.0\arraytask4.genruntimeconfig.cache
+C:\Users\resul\Desktop\arraytask4\obj\Debug\net8.0\ref\arraytask4.dll

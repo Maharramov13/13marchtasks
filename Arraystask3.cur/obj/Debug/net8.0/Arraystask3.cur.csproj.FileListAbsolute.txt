@@ -1,0 +1,14 @@
+C:\Users\resul\Desktop\Arraystask3.cur\bin\Debug\net8.0\Arraystask3.cur.exe
+C:\Users\resul\Desktop\Arraystask3.cur\bin\Debug\net8.0\Arraystask3.cur.deps.json
+C:\Users\resul\Desktop\Arraystask3.cur\bin\Debug\net8.0\Arraystask3.cur.runtimeconfig.json
+C:\Users\resul\Desktop\Arraystask3.cur\bin\Debug\net8.0\Arraystask3.cur.dll
+C:\Users\resul\Desktop\Arraystask3.cur\bin\Debug\net8.0\Arraystask3.cur.pdb
+C:\Users\resul\Desktop\Arraystask3.cur\obj\Debug\net8.0\Arraystask3.cur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\Desktop\Arraystask3.cur\obj\Debug\net8.0\Arraystask3.cur.AssemblyInfoInputs.cache
+C:\Users\resul\Desktop\Arraystask3.cur\obj\Debug\net8.0\Arraystask3.cur.AssemblyInfo.cs
+C:\Users\resul\Desktop\Arraystask3.cur\obj\Debug\net8.0\Arraystask3.cur.csproj.CoreCompileInputs.cache
+C:\Users\resul\Desktop\Arraystask3.cur\obj\Debug\net8.0\Arraystask3.cur.dll
+C:\Users\resul\Desktop\Arraystask3.cur\obj\Debug\net8.0\refint\Arraystask3.cur.dll
+C:\Users\resul\Desktop\Arraystask3.cur\obj\Debug\net8.0\Arraystask3.cur.pdb
+C:\Users\resul\Desktop\Arraystask3.cur\obj\Debug\net8.0\Arraystask3.cur.genruntimeconfig.cache
+C:\Users\resul\Desktop\Arraystask3.cur\obj\Debug\net8.0\ref\Arraystask3.cur.dll

@@ -1,0 +1,14 @@
+C:\Users\resul\Desktop\task1arrays\bin\Debug\net8.0\task1arrays.exe
+C:\Users\resul\Desktop\task1arrays\bin\Debug\net8.0\task1arrays.deps.json
+C:\Users\resul\Desktop\task1arrays\bin\Debug\net8.0\task1arrays.runtimeconfig.json
+C:\Users\resul\Desktop\task1arrays\bin\Debug\net8.0\task1arrays.dll
+C:\Users\resul\Desktop\task1arrays\bin\Debug\net8.0\task1arrays.pdb
+C:\Users\resul\Desktop\task1arrays\obj\Debug\net8.0\task1arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\Desktop\task1arrays\obj\Debug\net8.0\task1arrays.AssemblyInfoInputs.cache
+C:\Users\resul\Desktop\task1arrays\obj\Debug\net8.0\task1arrays.AssemblyInfo.cs
+C:\Users\resul\Desktop\task1arrays\obj\Debug\net8.0\task1arrays.csproj.CoreCompileInputs.cache
+C:\Users\resul\Desktop\task1arrays\obj\Debug\net8.0\task1arrays.dll
+C:\Users\resul\Desktop\task1arrays\obj\Debug\net8.0\refint\task1arrays.dll
+C:\Users\resul\Desktop\task1arrays\obj\Debug\net8.0\task1arrays.pdb
+C:\Users\resul\Desktop\task1arrays\obj\Debug\net8.0\task1arrays.genruntimeconfig.cache
+C:\Users\resul\Desktop\task1arrays\obj\Debug\net8.0\ref\task1arrays.dll

@@ -1,0 +1,14 @@
+C:\Users\resul\Desktop\arraystask2\bin\Debug\net8.0\arraystask2.exe
+C:\Users\resul\Desktop\arraystask2\bin\Debug\net8.0\arraystask2.deps.json
+C:\Users\resul\Desktop\arraystask2\bin\Debug\net8.0\arraystask2.runtimeconfig.json
+C:\Users\resul\Desktop\arraystask2\bin\Debug\net8.0\arraystask2.dll
+C:\Users\resul\Desktop\arraystask2\bin\Debug\net8.0\arraystask2.pdb
+C:\Users\resul\Desktop\arraystask2\obj\Debug\net8.0\arraystask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\Desktop\arraystask2\obj\Debug\net8.0\arraystask2.AssemblyInfoInputs.cache
+C:\Users\resul\Desktop\arraystask2\obj\Debug\net8.0\arraystask2.AssemblyInfo.cs
+C:\Users\resul\Desktop\arraystask2\obj\Debug\net8.0\arraystask2.csproj.CoreCompileInputs.cache
+C:\Users\resul\Desktop\arraystask2\obj\Debug\net8.0\arraystask2.dll
+C:\Users\resul\Desktop\arraystask2\obj\Debug\net8.0\refint\arraystask2.dll
+C:\Users\resul\Desktop\arraystask2\obj\Debug\net8.0\arraystask2.pdb
+C:\Users\resul\Desktop\arraystask2\obj\Debug\net8.0\arraystask2.genruntimeconfig.cache
+C:\Users\resul\Desktop\arraystask2\obj\Debug\net8.0\ref\arraystask2.dll

@@ -1,0 +1,14 @@
+C:\Users\resul\Desktop\Arraytasks2\bin\Debug\net8.0\Arraytasks2.exe
+C:\Users\resul\Desktop\Arraytasks2\bin\Debug\net8.0\Arraytasks2.deps.json
+C:\Users\resul\Desktop\Arraytasks2\bin\Debug\net8.0\Arraytasks2.runtimeconfig.json
+C:\Users\resul\Desktop\Arraytasks2\bin\Debug\net8.0\Arraytasks2.dll
+C:\Users\resul\Desktop\Arraytasks2\bin\Debug\net8.0\Arraytasks2.pdb
+C:\Users\resul\Desktop\Arraytasks2\obj\Debug\net8.0\Arraytasks2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\Desktop\Arraytasks2\obj\Debug\net8.0\Arraytasks2.AssemblyInfoInputs.cache
+C:\Users\resul\Desktop\Arraytasks2\obj\Debug\net8.0\Arraytasks2.AssemblyInfo.cs
+C:\Users\resul\Desktop\Arraytasks2\obj\Debug\net8.0\Arraytasks2.csproj.CoreCompileInputs.cache
+C:\Users\resul\Desktop\Arraytasks2\obj\Debug\net8.0\Arraytasks2.dll
+C:\Users\resul\Desktop\Arraytasks2\obj\Debug\net8.0\refint\Arraytasks2.dll
+C:\Users\resul\Desktop\Arraytasks2\obj\Debug\net8.0\Arraytasks2.pdb
+C:\Users\resul\Desktop\Arraytasks2\obj\Debug\net8.0\Arraytasks2.genruntimeconfig.cache
+C:\Users\resul\Desktop\Arraytasks2\obj\Debug\net8.0\ref\Arraytasks2.dll

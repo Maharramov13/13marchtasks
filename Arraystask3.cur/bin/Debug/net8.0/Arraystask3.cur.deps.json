@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Arraystask3.cur/1.0.0": {
+        "runtime": {
+          "Arraystask3.cur.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arraystask3.cur/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
